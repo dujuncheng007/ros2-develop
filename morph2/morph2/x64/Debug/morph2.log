@@ -1,0 +1,8 @@
+﻿  main.cpp
+  morph2.cpp
+D:\c_code\morph2\morph2.cpp(6,14): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\c_code\morph2\morph2.cpp(7,14): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\c_code\morph2\morph2.cpp(45,14): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\c_code\morph2\morph2.cpp(46,14): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  正在生成代码...
+  morph2.vcxproj -> D:\c_code\morph2\x64\Debug\morph2.exe
